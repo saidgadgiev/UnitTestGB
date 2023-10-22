@@ -1,8 +1,5 @@
-package Homework2Test;
+package Homework2;
 
-import Homework2.Car;
-import Homework2.Motorcycle;
-import Homework2.Vehicle;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
