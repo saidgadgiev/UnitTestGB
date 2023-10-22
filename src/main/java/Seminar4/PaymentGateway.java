@@ -1,5 +1,5 @@
 package Seminar4;
 
-public interface PaymentGeteway {
+public interface PaymentGateway {
     boolean processPayment(double amount);
 }
